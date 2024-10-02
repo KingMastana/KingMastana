@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **mobile apps and open source AI projects**
 
-- 📝 I regularly write articles on [cloud engineering, startups and AI](cloud engineering, startups and AI)
+- 📝 I regularly write articles on **cloud engineering, startups and AI**
 
 - 💬 Ask me about **mobile app development, python and AI**
 
